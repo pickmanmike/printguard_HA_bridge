@@ -1,6 +1,6 @@
 # PrintGuard Bridge
 
-A small LAN-friendly bridge for **PrintGuard** that:
+A small LAN-friendly bridge for **PrintGuard** (by /u/oliverbravery https://github.com/oliverbravery/PrintGuard) that:
 
 - Polls PrintGuard’s API (often running locally on the same machine via HTTPS / self-signed cert)
 - Exposes a stable HTTP endpoint suitable for **Home Assistant**, **Hubitat**, webhooks, etc.
